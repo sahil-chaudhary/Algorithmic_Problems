@@ -1,0 +1,2 @@
+Given a set of 2n-1 integers, is it possible to have n integers such that their sum is a multiple of n?
+The python code uses divide and conquer method. One of them address the specific case of n=2^k and the other is just for all natural number
